@@ -7,7 +7,8 @@ MUSTACHE=node_modules/.bin/mustache
 TOOLS=$(CFCM) $(CFDOCX) $(CRITIQUE) $(JSON) $(LINT) $(MUSTACHE)
 
 BUILD=build
-BASENAMES=open-development-work-order patron-sow open-development-terms
+GITHUB_MARKDOWN=README.md CONTRIBUTING.md
+BASENAMES=$(basename $(filter-out $(GITHUB_MARKDOWN),$(wildcard *.md)))
 FORMS=$(addsuffix .form.json,$(addprefix $(BUILD)/,$(BASENAMES)))
 
 GIT_TAG=$(shell (git diff-index --quiet HEAD && git describe --exact-match --tags 2>/dev/null | sed 's/v//'))
