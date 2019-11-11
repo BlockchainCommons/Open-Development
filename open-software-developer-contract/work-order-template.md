@@ -1,4 +1,4 @@
-This is a **Work Order** under the most recently released version of `Open Development Terms Title` published at `Open Development Terms Repository`.  **Blockchain Commons** and **Developer** agree:
+This is a **Work Order** under the most recently released version of `Terms Title` published at `Terms Repository`.  **Blockchain Commons** and **Developer** agree:
 
 # Start Date
 
