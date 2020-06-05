@@ -120,7 +120,7 @@ _Blockchain Commons_ agrees to respond promptly to _Developer_ requests to revie
 
 ## Dependencies
 
-_Developer_ agrees to ensure their _Contriubtions_ under this agreement have only the following kinds of _Dependencies_:
+_Developer_ agrees to ensure their _Contributions_ under this agreement have only the following kinds of _Dependencies_:
 
 - _Dependencies_ that _Developer_ has the legal right to assign to _Blockchain Commons_ under [Developer Assigns Intellectual Property](#developer-assigns-intellectual-property)
 
