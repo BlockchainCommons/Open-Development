@@ -50,9 +50,9 @@ _Developer_ agrees to track time spent working on milestones in fairly rounded, 
 
 _Developer_ agrees to bill _Blockchain Commons_ for each payment due under the agreement according to _Blockchain Commons_' billing instructions on the _Work Order_.
 
-## Cover General Expenses
+## Cover Expenses
 
-_Developer_ agrees to pay for all equipment, licenses, and services needed to develop open software, generally. For example, _Developer_ agrees to provide their own computer, operating system, development environment, and Internet access.
+_Developer_ agrees to pay for all equipment, licenses, and services needed to do the work. For example, _Developer_ agrees to provide their own computer, operating system, development environment, and Internet access.
 
 ## Return Loaned Equipment
 
@@ -81,10 +81,6 @@ _Blockchain Commons_ agrees to make all payments to _Developer_ under this agree
 ## Pay on Time
 
 _Blockchain Commons_ agrees to pay all correctly billed amounts on each bill within seven calendar days of receipt.  If _Blockchain Commons_ does not pay a bill on time, _Developer_ can notify _Blockchain Commons_ and stop work until all overdue bills are paid.  Stopping work in this way postpones all deadlines for as long as work stops.
-
-## Cover Extraordinary Expenses
-
-If milestones require extraordinary equipment, licenses, services or other major expenses, then _Blockchain Commons_ agrees to cover the costs to the _Developer_ that _Blockchain Commons_' technical representative preapproves in writing. For example, _Blockchain Commons_ may approve the costs of proprietary software licenses, testing hardware, and specific online services that milestones requires _Developer_ to use. If _Blockchain Commons_ requires _Developer_ to use and return specific equipment, _Blockchain Commons_ agrees to pay the costs of packaging and shipping, both ways. If _Blockchain Commons_ cannot pay an approved extraordinary expense directly, _Blockchain Commons_ agrees to advance _Developer_ the cost.
 
 ## Clarify Milestones
 
