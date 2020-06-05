@@ -62,10 +62,6 @@ After work is done under the agreement, and at any time on _Blockchain Commons_'
 
 _Developer_ agrees to do all work themself, without subcontracting or otherwise delegating to anyone.
 
-## Appoint Replacement Technical Representatives
-
-_Developer_ agrees to appoint a replacement technical representative, preapproved by _Blockchain Commons_, if the current one leaves or becomes unavailable.
-
 # Blockchain Commons' Obligations
 
 ## Pay Developer's Fee
