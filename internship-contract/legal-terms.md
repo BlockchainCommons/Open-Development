@@ -160,6 +160,10 @@ _Developer_ licenses _Blockchain Commons_ to do everything that would otherwise 
 
 # Working Relationship
 
+## Resume and Reference
+
+If _Intern_ and _Blockchain Commerce_ complete this agreement successfully, _Intern_ may identify themself as having completed an internship with _Blockchain Commerce_, on resumes and otherwise, and may list _Blockchain Commerce_ mentors as references in job applications.
+
 ## Independence
 
 _Developer_ will decide when, where, and how to work under this agreement, with the discretion of an independent contractor. _Developer_ will not have any power to enter agreements or take other legal action on _Blockchain Commons_' behalf.
