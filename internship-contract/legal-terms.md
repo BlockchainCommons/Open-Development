@@ -90,6 +90,10 @@ _Blockchain Commons_ agrees to respond promptly to _Developer_ requests to clari
 
 _Blockchain Commons_ agrees to respond promptly to _Developer_ requests to review _Developer_'s work and either confirm that milestones have been completed or clarify what work still needs to be done.
 
+## Mentor Developer
+
+_Blockchain Commons_ agrees to provide _Developer_ regular opportunity for one-on-one mentorship in the field of the work to be done, such as by phone and via code review.
+
 # Intellectual Property
 
 ## Purposes of Intellectual Property Terms
