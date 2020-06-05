@@ -1,4 +1,4 @@
-This is a **Work Order** under the most recently released version of `Terms Title` published at `Terms Repository`.  **Blockchain Commons** and **Developer** agree:
+This is a **Work Order** under the most recently released version of `Terms Title` published at `Terms Repository`.  **Blockchain Commons** and **Intern** agree:
 
 # Start Date
 
@@ -28,7 +28,7 @@ This is a **Work Order** under the most recently released version of `Terms Titl
 
 `Currency`
 
-# Developer's Payment Instructions
+# Intern's Payment Instructions
 
 `Payment Instructions`
 
