@@ -20,18 +20,6 @@ This is a **Work Order** under the most recently released version of `Terms Titl
 
 `Total Hours`
 
-# Subcontractors
-
-May _Developer_ use subcontractors? `Subcontractors Yes or No`
-
-# Developer's Technical Lead
-
-`Developer's Technical Lead`
-
-# Blockchain Commons' Technical Lead
-
-`Blockchain Commons' Technical Lead`
-
 # Fee
 
 `Fee`
