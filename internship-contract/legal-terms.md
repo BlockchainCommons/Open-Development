@@ -60,15 +60,7 @@ After work is done under the agreement, and at any time on _Blockchain Commons_'
 
 ## Manage Subcontractors
 
-If the _Work Order_ allows _Developer_ to use subcontractors:
-
-- _Developer_ agrees to use only subcontractors that have all the expertise needed to do the work efficiently.
-
-- If _Blockchain Commons_' technical representative objects to a particular subcontractor, _Developer_ agrees to stop using that subcontractor to do work under the agreement.
-
-- _Developer_ agrees to sign a contract with each subcontractor requiring them to abide by the terms of this agreement, assign _Intellectual Property Rights_ to _Developer_, and to abide by any nondisclosure agreement between _Developer_ and _Blockchain Commons_.
-
-- _Developer_ agrees to send _Blockchain Commons_ a copy of any contract with a subcontractor promptly on request.
+_Developer_ agrees to do all work themself, without subcontracting or otherwise delegating to anyone.
 
 ## Appoint Replacement Technical Representatives
 
