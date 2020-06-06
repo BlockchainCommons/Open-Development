@@ -46,6 +46,18 @@ If _Intern_ completes all milestones with hours to spare, _Intern_ agrees to use
 
 _Intern_ agrees to track time spent working on milestones in fairly rounded, quarter-hour increments.
 
+## Send Weekly Reports
+
+_Intern_ agrees to send _Blockchain Commons_' technical representative a report with all the following information within two business days after the end of each workweek:
+
+- a summary of work done during the week
+
+- requests for approval of any milestones
+
+- the number of hours worked so far
+
+- the number of hours remaining
+
 ## Send Bills
 
 _Intern_ agrees to bill _Blockchain Commons_ for each payment due under the agreement according to _Blockchain Commons_' billing instructions on the _Work Order_.
