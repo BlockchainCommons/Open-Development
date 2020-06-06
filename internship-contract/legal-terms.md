@@ -162,7 +162,7 @@ _Intern_ licenses _Blockchain Commons_ to do everything that would otherwise inf
 
 ## Resume and Reference
 
-If _Intern_ and _Blockchain Commerce_ complete this agreement successfully, _Intern_ may identify themself as having completed an internship with _Blockchain Commerce_, on resumes and otherwise, and may list _Blockchain Commerce_ mentors as references in job applications.
+If _Intern_ and _Blockchain Commons_ complete this agreement successfully, _Intern_ may identify themself as having completed an internship with _Blockchain Commons_, on resumes and otherwise, and may list _Blockchain Commons_ mentors as references in job applications.
 
 ## Independence
 
