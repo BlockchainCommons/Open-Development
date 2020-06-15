@@ -1,5 +1,13 @@
 This is a **Work Order** under the most recently released version of `Terms Title` published at `Terms Repository`.  **Blockchain Commons** and **Intern** agree:
 
+# The Intern
+
+- Full name: `Full name`
+- GitHub handle: `GitHub handle`
+- GPG email address: `GPG email address`
+- GPG fingerprint: `GPG fingerprint`
+- W-9 or W-8BEN: To be sent privately
+
 # Start Date
 
 `Start Date`
@@ -35,3 +43,7 @@ This is a **Work Order** under the most recently released version of `Terms Titl
 # Blockchain Commons' Billing Instructions
 
 `Billing Instructions`
+
+---
+
+File naming convention: CLA.YOURGITHUBHANDLE.YOURGPGFINGERPRINT.asc
