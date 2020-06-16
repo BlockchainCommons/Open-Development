@@ -46,4 +46,4 @@ This is a **Work Order** under the most recently released version of `Terms Titl
 
 ---
 
-File naming convention: CLA.YOURGITHUBHANDLE.YOURGPGFINGERPRINT.asc
+To sign this Open Development Internship Contract, fill in the details above. Then sign using GPG using the following command `gpg --armor --clearsign --output work-order.YOURGITHUBNAME.YOURGPGFINGERPRINT.asc work-order-template.md`, then email it to [ChristopherA@BlockchainCommons.com](mailto:ChristopherA@BlockchainCommons.com).
