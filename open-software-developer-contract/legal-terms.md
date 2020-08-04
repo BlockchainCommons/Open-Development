@@ -97,7 +97,7 @@ _Developer_ agrees to appoint a replacement technical representative, preapprove
 
 ## Pay Developer's Fee
 
-_Blockchain Commons_ agrees to pay _Developer_ the fee on the _Work Order_ on this schedule:
+_Blockchain Commons_ agrees to pay _Developer_ the fee on the schedule on the _Work Order_, if any, and otherwise on this schedule:
 
 - one third of the fee on entering into this agreement
 
