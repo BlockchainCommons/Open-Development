@@ -1,3 +1,10 @@
+---
+title: Blockchain Commons Open Software Developer Terms
+edition: Version 1.0.0
+blanks: {}
+signatures: []
+---
+
 # Overview
 
 This document spells out terms under which _Developer_ will develop open software for _Blockchain Commons_.

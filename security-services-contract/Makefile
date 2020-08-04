@@ -7,7 +7,7 @@ MUSTACHE=node_modules/.bin/mustache
 TOOLS=$(CFCM) $(CFDOCX) $(CRITIQUE) $(JSON) $(LINT) $(MUSTACHE)
 
 BUILD=build
-DOCKER_TAG=blockchain-commons-open-development
+DOCKER_TAG=blockchain-commons-security-services
 GITHUB_MARKDOWN=README.md CONTRIBUTING.md
 BASENAMES=$(basename $(filter-out $(GITHUB_MARKDOWN),$(wildcard *.md)))
 FORMS=$(addsuffix .form.json,$(addprefix $(BUILD)/,$(BASENAMES)))
@@ -40,6 +40,7 @@ $(BUILD)/%.md: $(BUILD)/%.form $(BUILD)/%.title $(BUILD)/%.edition $(BUILD)/%.si
 		--title "$(shell cat $(BUILD)/$*.title)" \
 		--values $(BUILD)/$*.values \
 		< $< > $@
+
 
 $(BUILD)/%.parsed: %.md | $(BUILD) $(CFCM)
 	$(CFCM) parse < $< > $@
