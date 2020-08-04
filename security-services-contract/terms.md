@@ -1,6 +1,7 @@
 ---
 title: Blockchain Commons Security Services Terms
 edition: Version 1.0.0
+blanks: {}
 signatures: []
 ---
 

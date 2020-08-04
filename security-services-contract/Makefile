@@ -7,11 +7,10 @@ MUSTACHE=node_modules/.bin/mustache
 TOOLS=$(CFCM) $(CFDOCX) $(CRITIQUE) $(JSON) $(LINT) $(MUSTACHE)
 
 BUILD=build
+DOCKER_TAG=blockchain-commons-security-services
 GITHUB_MARKDOWN=README.md CONTRIBUTING.md
 BASENAMES=$(basename $(filter-out $(GITHUB_MARKDOWN),$(wildcard *.md)))
 FORMS=$(addsuffix .form.json,$(addprefix $(BUILD)/,$(BASENAMES)))
-
-GIT_TAG=$(shell (git diff-index --quiet HEAD && git describe --exact-match --tags 2>/dev/null | sed 's/v//'))
 
 all: docx pdf md
 
@@ -19,16 +18,34 @@ docx: $(addprefix $(BUILD)/,$(BASENAMES:=.docx))
 pdf: $(addprefix $(BUILD)/,$(BASENAMES:=.pdf))
 md: $(addprefix $(BUILD)/,$(BASENAMES:=.md))
 
-$(BUILD)/%.docx: $(BUILD)/%.form.json $(BUILD)/%.title $(BUILD)/%.edition $(BUILD)/%.signatures styles.json | $(CFDOCX) $(BUILD)
-	$(CFDOCX) --title "$(shell cat $(BUILD)/$*.title)" --edition "$(shell cat $(BUILD)/$*.edition)" --signatures $(BUILD)/$*.signatures --number outline --indent-margins --left-align-title --styles styles.json $< > $@
+$(BUILD)/%.docx: $(BUILD)/%.form $(BUILD)/%.title $(BUILD)/%.edition $(BUILD)/%.signatures $(BUILD)/%.directions $(BUILD)/%.values styles.json | $(CFDOCX) $(BUILD)
+	$(CFDOCX) \
+		--directions $(BUILD)/$*.directions \
+		--edition "$(shell cat $(BUILD)/$*.edition)" \
+		--indent-margins \
+		--left-align-title \
+		--number outline \
+		--signatures $(BUILD)/$*.signatures \
+		--styles styles.json \
+		--title "$(shell cat $(BUILD)/$*.title)" \
+		--values $(BUILD)/$*.values \
+		$< > $@
 
-$(BUILD)/%.md: $(BUILD)/%.form.json $(BUILD)/%.title $(BUILD)/%.edition $(BUILD)/%.signatures | $(CFCM) $(BUILD)
-	$(CFCM) stringify --title "$(shell cat $(BUILD)/$*.title)" --edition "$(shell cat $(BUILD)/$*.edition)" --signatures $(BUILD)/$*.signatures --ordered --ids < $< > $@
+$(BUILD)/%.md: $(BUILD)/%.form $(BUILD)/%.title $(BUILD)/%.edition $(BUILD)/%.signatures $(BUILD)/%.directions $(BUILD)/%.values | $(CFCM) $(BUILD)
+	$(CFCM) stringify \
+		--directions $(BUILD)/$*.directions \
+		--edition "$(shell cat $(BUILD)/$*.edition)" \
+		--ids \
+		--ordered \
+		--title "$(shell cat $(BUILD)/$*.title)" \
+		--values $(BUILD)/$*.values \
+		< $< > $@
+
 
 $(BUILD)/%.parsed: %.md | $(BUILD) $(CFCM)
 	$(CFCM) parse < $< > $@
 
-$(BUILD)/%.form.json: $(BUILD)/%.parsed | $(JSON)
+$(BUILD)/%.form: $(BUILD)/%.parsed | $(JSON)
 	$(JSON) form < $< > $@
 
 $(BUILD)/%.title: $(BUILD)/%.parsed | $(JSON)
@@ -42,6 +59,9 @@ $(BUILD)/%.signatures: $(BUILD)/%.parsed | $(JSON)
 
 $(BUILD)/%.directions: $(BUILD)/%.parsed | $(JSON)
 	json directions < $< > $@
+
+$(BUILD)/%.values: $(BUILD)/%.parsed | $(JSON)
+	json frontMatter.blanks < $< > $@
 
 %.pdf: %.docx
 	unoconv $<
@@ -72,7 +92,7 @@ clean:
 	rm -rf $(BUILD)
 
 docker:
-	docker build -t blockchain-commons-security-services-terms .
-	docker run --name blockchain-commons-security-services-terms blockchain-commons-security-services-terms
-	docker cp blockchain-commons-security-services-terms:/workdir/$(BUILD) .
-	docker rm blockchain-commons-security-services-terms
+	docker build -t $(DOCKER_TAG) .
+	docker run --name $(DOCKER_TAG) $(DOCKER_TAG)
+	docker cp $(DOCKER_TAG):/workdir/$(BUILD) .
+	docker rm $(DOCKER_TAG)
