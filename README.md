@@ -1,11 +1,13 @@
-# Open Development Resources
+# Open Development Legal Resources
 
-This repo is a resource where we share our best practices for open development legal contracts, so that they can be used by other companies our individuals. 
+This repo is a resource where we share our best practices for open development legal contracts, so that they can be used by other companies or individuals. 
 
-It includes:
+> :book: ***What is Open Development?*** Open development is a larger infrastructure that encompasses open-source licenses but does so while laying out a complete methodology for these projects, from their initial conception through their long-term support. It is built on what we see as the intrinsic goal of the open-source model: for a community to create common resources that can be freely used for the good of all. However, open development looks at this goal as part of an ecosystem that goes well beyond the idea of just developing code and releasing it under an open license.
+
+Our open development legal resources includes:
 
 * *Contributor License Agreement.* An agreement ensuring that contributions to a repo are correctly protected.
-* *Work Contracts.* Contracts for use with contributing developers or interns or for security services..
+* *Work Contracts.* Contracts for use with contributing developers or interns or for security services.
 
 If you have improvements for our work, please share them back to us with [PRs](pulls) or [Issues](issues).
 
@@ -15,7 +17,7 @@ If you have improvements for our work, please share them back to us with [PRs](p
 
 *Open Development Resources* is a project of [Blockchain Commons](https://www.blockchaincommons.com/). We are proudly a "not-for-profit" social benefit corporation committed to open source & open development. Our work is funded entirely by donations and collaborative partnerships with people like you. Every contribution will be spent on building open tools, technologies, and techniques that sustain and advance blockchain and internet security infrastructure and promote an open web.
 
-To financially support further development of *Bitcoin-Standup* and other projects, please consider becoming a Patron of Blockchain Commons through ongoing monthly patronage as a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). You can also support Blockchain Commons with bitcoins at our [BTCPay Server](https://btcpay.blockchaincommons.com/).
+To financially support further development of *Open Development Resources* and other projects, please consider becoming a Patron of Blockchain Commons through ongoing monthly patronage as a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). You can also support Blockchain Commons with bitcoins at our [BTCPay Server](https://btcpay.blockchaincommons.com/).
 
 ## Contributing
 
@@ -34,6 +36,8 @@ The following people directly contributed to this repository. You can add your n
 | Name              | Role                | Github                                            | Email                                                       | GPG Fingerprint                                    |
 | ----------------- | ------------------- | ------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------- |
 | Christopher Allen | Principal Architect | [@ChristopherA](https://github.com/ChristopherA) | \<ChristopherA@LifeWithAlacrity.com\>                       | FDFE 14A5 4ECB 30FC 5D22  74EF F8D3 6C91 3574 05ED |
+
+### License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
