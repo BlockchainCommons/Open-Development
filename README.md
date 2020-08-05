@@ -7,8 +7,6 @@ It includes:
 * *Contributor License Agreement.* An agreement ensuring that contributions to a repo are correctly protected.
 * *Work Contracts.* Contracts for use with contributing developers or interns or for security services..
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
 If you have improvements for our work, please share them back to us with [PRs](pulls) or [Issues](issues).
 
 > :warning: **WARNING:** We are not lawyers; use these resources at your own risk.
@@ -36,3 +34,6 @@ The following people directly contributed to this repository. You can add your n
 | Name              | Role                | Github                                            | Email                                                       | GPG Fingerprint                                    |
 | ----------------- | ------------------- | ------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------- |
 | Christopher Allen | Principal Architect | [@ChristopherA](https://github.com/ChristopherA) | \<ChristopherA@LifeWithAlacrity.com\>                       | FDFE 14A5 4ECB 30FC 5D22  74EF F8D3 6C91 3574 05ED |
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
