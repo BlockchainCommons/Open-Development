@@ -85,7 +85,7 @@ A disclosure process must:
 
 - specify a secure means of communicating _Vulnerability_ information
 
-- allow _Security Firm_ to publish of the _Vulnerability_ after a definite period of time
+- allow _Security Firm_ to publish the _Vulnerability_ after a definite period of time
 
 #### Prohibitions
 
