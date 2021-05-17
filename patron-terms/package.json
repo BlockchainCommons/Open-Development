@@ -5,6 +5,6 @@
     "commonform-docx": "^5.5.0",
     "commonform-lint": "^3.0.2",
     "json": "^11.0.0",
-    "mustache": "^3.0.1"
+    "mustache": "^4.2.0"
   }
 }
