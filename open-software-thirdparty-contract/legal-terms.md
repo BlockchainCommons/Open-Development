@@ -11,7 +11,7 @@ This document spells out terms under which _Developer_ will develop open softwar
 
 # Work Order
 
-These terms apply to work done under any **Work Order** that references these terms.  Each _Work Order_, together with these terms, makes up an agreement between _Third Party_ and _Developer_.
+These terms apply to work done under any **Work Order** that references these terms.  Each _Work Order_, together with these terms, makes up an agreement between _Third Party_, _Developer_, and _Blockchain Commons_
 
 # Developer's Obligations
 
