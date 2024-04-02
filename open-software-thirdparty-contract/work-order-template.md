@@ -47,9 +47,9 @@ May _Developer_ use subcontractors? `Subcontractors Yes or No`
 
 `Developer's Technical Lead`
 
-# Blockchain Commons' Technical Lead
+# Third Party's Technical Lead
 
-`Blockchain Commons' Technical Lead`
+`Third Party's Technical Lead`
 
 # Fee
 
