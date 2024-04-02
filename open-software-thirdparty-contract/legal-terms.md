@@ -163,8 +163,6 @@ _Developer_ agrees to ensure their _Contributions_ under this agreement have onl
 
 - _Dependencies_ that _Third Party_'s technical representative specifically preapproves in writing, by name and version, for a specific use case
 
-_Developer_ does not and cannot assign any Intellectual Property to _Third Party_ that is owned by _Blockchain Commons_.
-
 ## Determining Dependencies' Licenses
 
 _Developer_ may rely on LICENSE, COPYING, and similar files, as well as other copyright notices, header comments, or standardized software package metadata, to determine whether _Dependencies_ meet the requirements of [Dependencies](#dependencies).
@@ -180,6 +178,8 @@ _Developer_ assigns all _New Intellectual Property_ to _Third Party_. Among the 
 - all rights to seek legal remedies for infringement of _New Intellectual Property_, such as money damages, injunctions, and other "equitable remedies", as well as any other compensation, benefits, or procedural privileges a court might award
 
 - all other rights _Developer_ has in _New Intellectual Property_
+
+_Developer_ does not and cannot assign any Intellectual Property to _Third Party_ that is owned by _Blockchain Commons_.
 
 ## Further Steps
 
