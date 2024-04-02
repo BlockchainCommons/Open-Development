@@ -137,11 +137,19 @@ _Third Party_ agrees to respond promptly to _Developer_ requests to review _Deve
 
 - _Third Party_ can be sure that it actually has the legal rights needed to license and enforce.
 
+## Intellectual Property Expectations
+
+_Third Party_ will release work done under any _Work Orders_ by some sort of permissive license that Blue Oak Council rated "Bronze" or better when it is reasonable for them to do so and does not impact their confidential needs.
+
+_Third Party_ may delay such release of any work for up to a year if that is helpful to their needs of confidential.
+
+_Third Party_ may note in the _Work Order_ specific, proprietary elements of the _Work Order_ that will be kept confidential and not released under a permissive licese, per the above.
+
 ## Intellectual Property Definitions
 
-- **New Intellectual Property** means all _Intellectual Property Rights_ in _Developer's_ _Contributions_.
+- **New Intellectual Property** means all _Intellectual Property Rights_ in _Developer's_ _Contributions_ except those owned by _Blockchain Commons_.
 
-- **Intellectual Property Rights** means copyrights, mask work rights, moral rights, patent rights, trade secrets, trade names, trademarks, service marks, trade dress rights, database rights, and rights in any registrations or applications for _Intellectual Property Rights_.
+- **Intellectual Property Rights** means copyrights, mask work rights, moral rights, patent rights, trade secrets, trade names, trademarks, service marks, trade dress rights, database rights, and rights in any registrations or applications for _Intellectual Property Rights_ except those owned by _Blockchain Commons_.
 
 - **Dependencies** means all works that _Developer_'s _Contributions_ explicitly incorporate, depend on, install, configure, invoke, or link to, directly or indirectly.
 
@@ -154,6 +162,8 @@ _Developer_ agrees to ensure their _Contributions_ under this agreement have onl
 - Permissively licensed software made available to the public on the terms of form licenses that Blue Oak Council rated "Bronze" or better on the start date on the _Work Order_
 
 - _Dependencies_ that _Third Party_'s technical representative specifically preapproves in writing, by name and version, for a specific use case
+
+_Developer_ does not and cannot assign any Intellectual Property to _Third Party_ that is owned by _Blockchain Commons_.
 
 ## Determining Dependencies' Licenses
 
