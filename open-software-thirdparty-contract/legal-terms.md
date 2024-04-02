@@ -1,5 +1,5 @@
 ---
-title: Blockchain Commons Open Software Developer Terms
+title: Third Party Open Software Developer Terms
 edition: Version 1.0.0
 blanks: {}
 signatures: []
@@ -7,11 +7,11 @@ signatures: []
 
 # Overview
 
-This document spells out terms under which _Developer_ will develop open software for _Blockchain Commons_.
+This document spells out terms under which _Developer_ will develop open software for _______________________________________ (_Third Party_) in coordination with _Blockchain Commons_.
 
 # Work Order
 
-These terms apply to work done under any **Work Order** that references these terms.  Each _Work Order_, together with these terms, makes up an agreement between _Blockchain Commons_ and _Developer_.
+These terms apply to work done under any **Work Order** that references these terms.  Each _Work Order_, together with these terms, makes up an agreement between _Third Party_ and _Developer_.
 
 # Developer's Obligations
 
@@ -35,7 +35,7 @@ Beginning on receipt of first payment, _Developer_ agrees to complete all milest
 
 ## Stick to the Repositories
 
-_Developer_ agrees to work on the repositories on the _Work Order_ only, and not to count hours working on any other projects or repositories without prior, written approval from _Blockchain Commons_' technical representative.
+_Developer_ agrees to work on the repositories on the _Work Order_ only, and not to count hours working on any other projects or repositories without prior, written approval from _Third Party_'s technical representative.
 
 ## Sign Every Commit
 
@@ -43,7 +43,7 @@ _Developer_ agrees to sign Git commits for all _Contributions_ with a single key
 
 ## Leave Time for Approval
 
-_Developer_ agrees to coordinate with _Blockchain Commons_ to ensure that work is delivered with sufficient time left for _Blockchain Commons_ to clarify and approve completion of milestones before the end date on the _Work Order_.  _Developer_ agrees to work on milestones in a logical order that enables _Blockchain Commons_' technical representative to review and approve milestones in sequence, one at a time.
+_Developer_ agrees to coordinate with _Third Party_ to ensure that work is delivered with sufficient time left for _Third Party_ to clarify and approve completion of milestones before the end date on the _Work Order_.  _Developer_ agrees to work on milestones in a logical order that enables _Third Party_'s technical representative to review and approve milestones in sequence, one at a time.
 
 ## Spend Spare Hours on the Repositories
 
@@ -55,7 +55,7 @@ _Developer_ agrees to track time spent working on milestones in fairly rounded, 
 
 ## Send Weekly Reports
 
-_Developer_ agrees to send _Blockchain Commons_' technical representative a report with all the following information within two business days after the end of each workweek:
+_Developer_ agrees to send _Third Party_'s and _Blockchain Commons_' technical representative a report with all the following information within two business days after the end of each workweek:
 
 - a summary of work done during the week
 
@@ -67,7 +67,7 @@ _Developer_ agrees to send _Blockchain Commons_' technical representative a repo
 
 ## Send Bills
 
-_Developer_ agrees to bill _Blockchain Commons_ for each payment due under the agreement according to _Blockchain Commons_' billing instructions on the _Work Order_.
+_Developer_ agrees to bill _Third Party_ and _Blockchain Commons_ for each payment due under the agreement according to _Third Party_'s billing instructions on the _Work Order_.
 
 ## Cover General Expenses
 
@@ -75,7 +75,7 @@ _Developer_ agrees to pay for all equipment, licenses, and services needed to de
 
 ## Return Loaned Equipment
 
-After work is done under the agreement, and at any time on _Blockchain Commons_' request, _Developer_ agrees to promptly return any equipment _Blockchain Commons_ loaned for work under this agreement.
+After work is done under the agreement, and at any time on _Third Party_'s or _Blockchain Commons_' request (as appropriate), _Developer_ agrees to promptly return any equipment _Third Party_ or _Blockchain Commons_ loaned for work under this agreement.
 
 ## Manage Subcontractors
 
@@ -83,21 +83,21 @@ If the _Work Order_ allows _Developer_ to use subcontractors:
 
 - _Developer_ agrees to use only subcontractors that have all the expertise needed to do the work efficiently.
 
-- If _Blockchain Commons_' technical representative objects to a particular subcontractor, _Developer_ agrees to stop using that subcontractor to do work under the agreement.
+- If _Third Party_'s technical representative objects to a particular subcontractor, _Developer_ agrees to stop using that subcontractor to do work under the agreement.
 
-- _Developer_ agrees to sign a contract with each subcontractor requiring them to abide by the terms of this agreement, assign _Intellectual Property Rights_ to _Developer_, and to abide by any nondisclosure agreement between _Developer_ and _Blockchain Commons_.
+- _Developer_ agrees to sign a contract with each subcontractor requiring them to abide by the terms of this agreement, assign _Intellectual Property Rights_ to _Developer_, and to abide by any nondisclosure agreement between _Developer_ and _Third Party_.
 
-- _Developer_ agrees to send _Blockchain Commons_ a copy of any contract with a subcontractor promptly on request.
+- _Developer_ agrees to send _Third Party_ and _Blockchain Commons_ a copy of any contract with a subcontractor promptly on request.
 
 ## Appoint Replacement Technical Representatives
 
-_Developer_ agrees to appoint a replacement technical representative, preapproved by _Blockchain Commons_, if the current one leaves or becomes unavailable.
+_Developer_ agrees to appoint a replacement technical representative, preapproved by _BThird Party_, if the current one leaves or becomes unavailable.
 
 # Blockchain Commons' Obligations
 
 ## Pay Developer's Fee
 
-_Blockchain Commons_ agrees to pay _Developer_ the fee on the schedule on the _Work Order_, if any, and otherwise on this schedule:
+_Third Party_ agrees to pay _Blockchain Commons_ the fee on the schedule on the _Work Order_, if any, and otherwise on this schedule:
 
 - one third of the fee on entering into this agreement
 
@@ -107,23 +107,23 @@ _Blockchain Commons_ agrees to pay _Developer_ the fee on the schedule on the _W
 
 ## Follow Payment Instructions
 
-_Blockchain Commons_ agrees to make all payments to _Developer_ under this agreement denominated in the currency and according to the payment instructions agreed on the _Work Order_.  _Blockchain Commons_ will not increase or decrease payments under this agreement according to, or to offset, changes in the market price of the denominating currency.
+_Third Party_ agrees to make all payments to _Blockchain Commons_ under this agreement denominated in the currency and according to the payment instructions agreed on the _Work Order_.  _Third Partys_ will not increase or decrease payments under this agreement according to, or to offset, changes in the market price of the denominating currency.
 
 ## Pay on Time
 
-_Blockchain Commons_ agrees to pay all correctly billed amounts on each bill within seven calendar days of receipt.  If _Blockchain Commons_ does not pay a bill on time, _Developer_ can notify _Blockchain Commons_ and stop work until all overdue bills are paid.  Stopping work in this way postpones all deadlines for as long as work stops.
+_Third Party_ agrees to pay all correctly billed amounts on each bill within seven calendar days of receipt.  If _Third Party_ does not pay a bill on time, _Blockchain Commons_ can notify _Third Party_ and have _Developer_ stop work until all overdue bills are paid.  Stopping work in this way postpones all deadlines for as long as work stops.
 
 ## Cover Extraordinary Expenses
 
-If milestones require extraordinary equipment, licenses, services or other major expenses, then _Blockchain Commons_ agrees to cover the costs to the _Developer_ that _Blockchain Commons_' technical representative preapproves in writing. For example, _Blockchain Commons_ may approve the costs of proprietary software licenses, testing hardware, and specific online services that milestones requires _Developer_ to use. If _Blockchain Commons_ requires _Developer_ to use and return specific equipment, _Blockchain Commons_ agrees to pay the costs of packaging and shipping, both ways. If _Blockchain Commons_ cannot pay an approved extraordinary expense directly, _Blockchain Commons_ agrees to advance _Developer_ the cost.
+If milestones require extraordinary equipment, licenses, services or other major expenses, then _Third Party_ agrees to cover the costs to the _Developer_ that _Third Party_'s technical representative preapproves in writing. For example, _Third Party_ may approve the costs of proprietary software licenses, testing hardware, and specific online services that milestones requires _Developer_ to use. If _Third Party_ requires _Developer_ to use and return specific equipment, _Third Party_ agrees to pay the costs of packaging and shipping, both ways. If _Third Party_ cannot pay an approved extraordinary expense directly, _Third Party_ agrees to advance _Developer_ the cost.
 
 ## Clarify Milestones
 
-_Blockchain Commons_ agrees to respond promptly to _Developer_ requests to clarify milestones.
+_Third Party_ agrees to respond promptly to _Developer_ requests to clarify milestones.
 
 ## Approve Milestones
 
-_Blockchain Commons_ agrees to respond promptly to _Developer_ requests to review _Developer_'s work and either confirm that milestones have been completed or clarify what work still needs to be done.
+_Third Party_ agrees to respond promptly to _Developer_ requests to review _Developer_'s work and either confirm that milestones have been completed or clarify what work still needs to be done.
 
 # Intellectual Property
 
@@ -131,11 +131,11 @@ _Blockchain Commons_ agrees to respond promptly to _Developer_ requests to revie
 
 [Intellectual Property](#intellectual-property) assigns ownership of intellectual property in _Developer_'s _Contributions_.  That way:
 
-- _Blockchain Commons_ can choose the license for the work, and update that license over time.
+- _Third Party_ can choose the license for the work, and update that license over time.
 
-- _Blockchain Commons_ can enforce the terms of the licenses it chooses.
+- _Third Party_ can enforce the terms of the licenses it chooses.
 
-- _Blockchain Commons_ can be sure that it actually has the legal rights needed to license and enforce.
+- _Third Party_ can be sure that it actually has the legal rights needed to license and enforce.
 
 ## Intellectual Property Definitions
 
@@ -149,11 +149,11 @@ _Blockchain Commons_ agrees to respond promptly to _Developer_ requests to revie
 
 _Developer_ agrees to ensure their _Contributions_ under this agreement have only the following kinds of _Dependencies_:
 
-- _Dependencies_ that _Developer_ has the legal right to assign to _Blockchain Commons_ under [Developer Assigns Intellectual Property](#developer-assigns-intellectual-property)
+- _Dependencies_ that _Developer_ has the legal right to assign to _Third Party_ under [Developer Assigns Intellectual Property](#developer-assigns-intellectual-property)
 
 - Permissively licensed software made available to the public on the terms of form licenses that Blue Oak Council rated "Bronze" or better on the start date on the _Work Order_
 
-- _Dependencies_ that _Blockchain Commons_' technical representative specifically preapproves in writing, by name and version, for a specific use case
+- _Dependencies_ that _Third Party_'s technical representative specifically preapproves in writing, by name and version, for a specific use case
 
 ## Determining Dependencies' Licenses
 
@@ -161,7 +161,7 @@ _Developer_ may rely on LICENSE, COPYING, and similar files, as well as other co
 
 ## Developer Assigns Intellectual Property
 
-_Developer_ assigns all _New Intellectual Property_ to _Blockchain Commons_. Among the rights assigned are:
+_Developer_ assigns all _New Intellectual Property_ to _Third Party_. Among the rights assigned are:
 
 - ownership of _New Intellectual Property_
 
@@ -173,43 +173,43 @@ _Developer_ assigns all _New Intellectual Property_ to _Blockchain Commons_. Amo
 
 ## Further Steps
 
-_Developer_ will do everything necessary to paper assignments in [Developer Assigns Intellectual Property](#contractor-assigns-intellectual-property), make them legally effective, and help _Blockchain Commons_ enforce the rights assigned. _Blockchain Commons_ will notify _Developer_ by e-mail of any further steps required, provide all necessary documentation, and reimburse _Developer_ for reasonable out-of-pocket expenses.
+_Developer_ will do everything necessary to paper assignments in [Developer Assigns Intellectual Property](#contractor-assigns-intellectual-property), make them legally effective, and help _Third Party_ enforce the rights assigned. _Third Party_ will notify _Developer_ by e-mail of any further steps required, provide all necessary documentation, and reimburse _Developer_ for reasonable out-of-pocket expenses.
 
-## Blockchain Commons Can Act on Developer's Behalf
+## Third Party Can Act on Developer's Behalf
 
-### What Blockchain Commons Can Do
+### What Third Party Can Do
 
-_Blockchain Commons_ can take action under [Further Steps](#further-steps) on _Developer_'s behalf if _Blockchain Commons_ can't find _Developer_, if _Developer_ isn't capable of doing so, or if _Developer_ refuses to do so.
+_Third Party_ can take action under [Further Steps](#further-steps) on _Developer_'s behalf if _Third Party_ can't find _Developer_, if _Developer_ isn't capable of doing so, or if _Developer_ refuses to do so.
 
 ### Legal Intent
 
-In legal terms of art, _Blockchain Commons_ and _Developer_ intend [What Blockchain Commons Can Do](#what-blockchain-commons-can-do) to appoint _Blockchain Commons_ as _Developer_'s "attorney in fact with full right of substitution" to act on _Developer_'s behalf under [Further Steps](#further-steps).
+In legal terms of art, _Third Party_ and _Developer_ intend [What Third Party Can Do](#what-third-party-can-do) to appoint _Third Party_ as _Developer_'s "attorney in fact with full right of substitution" to act on _Developer_'s behalf under [Further Steps](#further-steps).
 
 ## Other Intellectual Property
 
-_Developer_ licenses _Blockchain Commons_ to do everything that would otherwise infringe _Intellectual Property Rights_ that _Developer_ can license, other than _New Intellectual Property_, that _Developer_'s _Contributions_ use or build on. The license continues forever, cannot be revoked, imposes no royalty or other charge, and allows _Blockchain Commons_ to sublicense.
+_Developer_ licenses _Third Party_ to do everything that would otherwise infringe _Intellectual Property Rights_ that _Developer_ can license, other than _New Intellectual Property_, that _Developer_'s _Contributions_ use or build on. The license continues forever, cannot be revoked, imposes no royalty or other charge, and allows _Third Party_ to sublicense.
 
 # Working Relationship
 
 ## Independence
 
-_Developer_ will decide when, where, and how to work under this agreement, with the discretion of an independent contractor. _Developer_ will not have any power to enter agreements or take other legal action on _Blockchain Commons_' behalf.
+_Developer_ will decide when, where, and how to work under this agreement, with the discretion of an independent contractor. _Developer_ will not have any power to enter agreements or take other legal action on _Third Party's_ or _Blockchain Commons_' behalf.
 
 ## Personnel
 
-If the _Work Order_ allows, _Developer_ can use employee and contractor personnel to do any work under this agreement. Those personnel will be employees and contractors of _Developer_, not _Blockchain Commons_.
+If the _Work Order_ allows, _Developer_ can use employee and contractor personnel to do any work under this agreement. Those personnel will be employees and contractors of _Developer_, not _Third Party_ or _Blockchain Commons_.
 
 ## No Benefits
 
-Neither _Developer_ nor any _Developer_ personnel will receive any employee benefits from _Blockchain Commons_.
+Neither _Developer_ nor any _Developer_ personnel will receive any employee benefits from _Third Party_ or _Blockchain Commons_.
 
 ## Compliance
 
-Both sides will do their respective parts for tax, labor, employment, and immigration law compliance, consistent with their independent-contractor relationship under this agreement.
+All sides will do their respective parts for tax, labor, employment, and immigration law compliance, consistent with their independent-contractor relationship under this agreement.
 
 ## Compliance Indemnity
 
-_Developer_ will pay any losses that _Blockchain Commons_ pays or becomes legally responsible to pay, including expenses of defending against any legal claim, related to _Developer_'s failure under [Compliance](#compliance) for _Developer_ or any _Developer_ personnel. _Blockchain Commons_ will promptly notify _Developer_ by e-mail whenever it anticipates possible losses that _Developer_ might have to pay. If _Blockchain Commons_ fails to notify _Developer_ promptly, _Developer_ will not pay _Blockchain Commons_ losses that _Developer_ could have reduced or defended against if _Blockchain Commons_ had notified _Developer_ promptly.
+_Developer_ will pay any losses that _Third Party_ or _Blockchain Commons_ pays or becomes legally responsible to pay, including expenses of defending against any legal claim, related to _Developer_'s failure under [Compliance](#compliance) for _Developer_ or any _Developer_ personnel. _Third Party_ or _Blockchain Commons_ (as appropriate) will promptly notify _Developer_ by e-mail whenever it anticipates possible losses that _Developer_ might have to pay. If _Third Party_ or _Blockchain Commons_ (as appropriate) fails to notify _Developer_ promptly, _Developer_ will not pay _Third Party_ or _Blockchain Commons_ (as appropriate) losses that _Developer_ could have reduced or defended against if _Third Party_ or _Blockchain Commons_ (as appropriate) had notified _Developer_ promptly.
 
 # General Contract Terms
 
@@ -231,7 +231,7 @@ Both sides intend the _Work Order_ and these terms as the final, complete, and o
 
 ## Assignment
 
-_Developer_ cannot assign any right under this agreement without _Blockchain Commons_' prior, written, permission. _Blockchain Commons_ can assign this agreement, as a whole, to another business entity that acquires its stock or substantially all its assets, or to a new business entity set up to change its legal form or jurisdiction. Any attempt to assign rights under this agreement against its terms has no legal effect.
+_Developer_ cannot assign any right under this agreement without _Third Party_'s prior, written, permission. _Third Party_ can assign this agreement, as a whole, to another business entity that acquires its stock or substantially all its assets, or to a new business entity set up to change its legal form or jurisdiction. Any attempt to assign rights under this agreement against its terms has no legal effect.
 
 ## Delegation
 
@@ -243,7 +243,7 @@ If a court decides that any part of this agreement cannot be enforced, for any r
 
 ## Enforcement
 
-Only _Developer_ and _Blockchain Commons_ can enforce this agreement.
+Only _Developer_, _Third Party_, and _Blockchain Commons_ can enforce this agreement.
 
 ## Lawsuits
 
